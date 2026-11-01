@@ -5,7 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "tsx watch src/server.ts",
-    "start": "node --loader tsx src/server.ts",
+    "build": "tsc",
+    "start": "node dist/server.js",
+    "start:tsx": "node --loader tsx src/server.ts",
     "test": "vitest",
     "test:integration": "vitest --config vitest.integration.config.ts",
     "lint": "eslint src --ext .ts",
