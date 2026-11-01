@@ -1,0 +1,5 @@
+<svg width="1440" height="600" viewBox="0 0 1440 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0,200 Q360,150 720,200 T1440,200 L1440,600 L0,600 Z" fill="#F5F8FF" opacity="0.5"/>
+  <path d="M0,250 Q360,200 720,250 T1440,250 L1440,600 L0,600 Z" fill="#EFF6FF" opacity="0.5"/>
+  <path d="M0,300 Q360,250 720,300 T1440,300 L1440,600 L0,600 Z" fill="#DBEAFE" opacity="0.5"/>
+</svg>
